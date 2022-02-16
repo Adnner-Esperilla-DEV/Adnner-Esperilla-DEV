@@ -71,6 +71,20 @@ My name is Adnner Esperilla, I'm 25 years old, I live in Peru and I'm a Full-Sta
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Adnner-Esperilla-DEV&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
-
+<p align="center">
+	<a href="https://www.instagram.com/adnner_esperilla/" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" width="60" height="95">
+	</a>
+	<a href="https://twitter.com/sleyderer" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/twitter.svg" width="60" height="95">
+	</a>
+	<a href="https://www.linkedin.com/in/adnner-esperilla-46443a160/" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" width="60" height="95">
+	</a>
+	<a href="https://www.youtube.com/channel/UCDDPLzfgxQ1gIXomhqMe4cg" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/youtube.svg" width="60" height="95">
+	</a>
+	
+</p>
 
 
