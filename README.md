@@ -1,16 +1,67 @@
-### Hi there 👋
+<img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/tech.gif' width='20%'/> 
 
-<!--
-**Adnner-Esperilla-DEV/Adnner-Esperilla-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">BIO</h1>
 
-Here are some ideas to get you started:
+<h3 align="left">
+  Welcome to Adnner's profile!
+</h3>
+My name is Adnner Esperilla, I'm 25 years old, I live in Peru and I'm a Full-Stack developer ❤️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
+<h2 align='left'><i>Languages ​​and tools</i></h2>
+<table width="100" align="center">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+   <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60">
+    </td>
+    <td align='center' width="190" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
+    </td>
+</tr>
+  <tr>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/sass.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png" height="60"wifth="60">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+</tr>
+  <tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
+    </td>
+	<td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg" width="60">
+    </td>
+	<td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60">
+    </td>
+	<td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
+    </td>
+	<td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
+    </td>
+</tr>
+
+
+
+
