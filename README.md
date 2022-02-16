@@ -61,7 +61,7 @@ My name is Adnner Esperilla, I'm 25 years old, I live in Peru and I'm a Full-Sta
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
     </td>
 </tr>
-
+</table>
 <h2 align='left'><i>Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
