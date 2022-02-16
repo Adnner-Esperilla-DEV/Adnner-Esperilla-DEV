@@ -62,6 +62,15 @@ My name is Adnner Esperilla, I'm 25 years old, I live in Peru and I'm a Full-Sta
     </td>
 </tr>
 
+<h2 align='left'><i>Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Adnner-Esperilla-DEV&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+<h3 align="center">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Adnner-Esperilla-DEV&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
+</h3>
 
 
 
